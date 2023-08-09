@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Within this Organization, you can find all repos used for the uDevOps project conducted by Christos and Luka. 
 <!--
 
 **Here are some ideas to get you started:**
