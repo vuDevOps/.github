@@ -14,6 +14,10 @@ Here we will describe the REPO structure:
 [smartWatts](https://github.com/vuDevOps/smartWatts): This repo contains the deployment files and installation instructions for smartWatts 
 
 [luka](https://github.com/vuDevOps/luka): Within this repo you will find the SockShop data, results and graphs pertaining to Lukas research. 
+
+[christos](https://github.com/vuDevOps/christos): Within this repo you will find the SockShop data, results and graphs pertaining to Christos's research. 
+
+
 <!--
 
 **Here are some ideas to get you started:**
